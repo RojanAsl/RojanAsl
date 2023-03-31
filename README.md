@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 - 📊🛢⚙️ Currently taking a Master's degree in Data Science and Engineering at FEUP 
-- 🧬🦾⚙️ Biomedical Engineering
+- 🧬🦾⚙️ Majored in Biomedical Engineering
