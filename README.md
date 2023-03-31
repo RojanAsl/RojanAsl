@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📊🛢⚙️ Currently taking a Master's degree in Data Science and Engineering at University of Porto (FEUP) 
-- 🧬🦾⚙️ Majored in Biomedical Engineering at Polytechnic of Porto (ISEP)
+- 📊🛢⚙️ Currently taking a Master's degree in Data Science and Engineering
+- 🧬🦾⚙️ Majored in Biomedical Engineering
