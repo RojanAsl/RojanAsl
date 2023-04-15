@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔎📈 Doing research at INESC TEC
+- 🧬📊🔎 Doing research at INESC TEC
 - 📊🛢⚙️ Currently taking a Master's degree in Data Science and Engineering
 - 🧬🦾⚙️ Majored in Biomedical Engineering
