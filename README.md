@@ -1,4 +1,4 @@
-#### Hi 👋 I'm Rojan!
+#### Hi, Salam, Olá 👋 I'm Rojan!
 <!--
 ### 
 
@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🧬📊🔎 Doing research at INESC TEC
-- 📊🛢⚙️ Currently taking a Master's degree in Data Science and Engineering
+- 🧬📊🔎 Doing Signal Processing and Computer Vision Research at INESC TEC
+- 📊🛢⚙️ Taking a Master's degree in Data Science and Engineering
 - 🧬🦾⚙️ Majored in Biomedical Engineering
