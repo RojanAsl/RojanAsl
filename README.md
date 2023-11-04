@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🧬📊🔎 Doing Signal Processing and Computer Vision Research at INESC TEC
+- 🧬📊🔎 Doing Signal Processing and Computer Vision Research applied to biomedical data @INESC TEC
 - 📊🛢⚙️ Taking a Master's degree in Data Science and Engineering
 - 🧬🦾⚙️ Majored in Biomedical Engineering
